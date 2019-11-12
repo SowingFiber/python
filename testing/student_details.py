@@ -1,0 +1,6 @@
+s_id = int(input('Enter student id:'))
+s_name = input('Enter student name:')
+s_marks = float(input('Enter marks scored:'))
+print('ID: ', s_id)
+print('Name: ', s_name)
+print('Marks: ', s_marks)

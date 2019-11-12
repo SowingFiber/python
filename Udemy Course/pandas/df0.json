@@ -1,0 +1,32 @@
+{
+    "ID": {
+        "0": 1,
+        "1": 2,
+        "5": 6
+    },
+    "Address": {
+        "0": "3666 21st St",
+        "1": "735 Dolores St",
+        "5": "551 Alvarado St"
+    },
+    "City": {
+        "0": "San Francisco",
+        "1": "San Francisco",
+        "5": "San Francisco"
+    },
+    "Country": {
+        "0": "USA",
+        "1": "USA",
+        "5": "USA"
+    },
+    "Name": {
+        "0": "Madeira",
+        "1": "Bready Shop",
+        "5": "Richvalley"
+    },
+    "Employees": {
+        "0": 8,
+        "1": 15,
+        "5": 20
+    }
+}
